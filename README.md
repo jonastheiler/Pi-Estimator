@@ -5,8 +5,7 @@
 1. [Motivation](#motivation)
 2. [About the Package](#package)
 3. [Files](#files)
-4. [Installation](#installation)
-5. [Acknowledgements](#acknowledgements)
+4. [Acknowledgements](#acknowledgements)
 
 ## Motivation <a name="motivation"></a>
 
@@ -14,6 +13,10 @@ This is another project of the [Data Scientist Nanodegree](https://www.udacity.c
 
 You can install the package with following code:<br/>
 `pip install thjo-pi-estimator`
+
+If you want to use for example the *"Riemann_Sum_Estimator"* you need the 
+following code:<br/>
+`from thjo_pi_estimator import Riemann_Sum_Estimator`
 
 You can find more informations about how to install packages [here](https://packaging.python.org/tutorials/installing-packages/#use-pip-for-installing).
 
@@ -57,7 +60,7 @@ number of summands (n=100)
 Methods:
 1. estimate_pi(): estimation of pi by a finite, alternating Leibniz series.<br/>
 2. series_plot(): creates a barplot of the summands and indicates the 
-convergence to pi.<br/>
+convergence to pi.
 ---
 
 ## Files <a name="files"></a>
@@ -65,9 +68,7 @@ convergence to pi.<br/>
 The package contains two files:
 1. monte_carlo.py, class = Monte_Carlo_Estimator()
 2. riemann_sum.py, class = Riemann_Sum_Estimator()
-
-## Installation <a name="installation"></a>
-
+3. leibniz_series.py, class = Leibniz_Series_Estimator()
 
 ## Acknowledgements <a name="acknowledgements"></a>
 

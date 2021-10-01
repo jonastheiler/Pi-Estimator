@@ -12,8 +12,8 @@
 
 This is another project of the [Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025) programm at [Udacity](https://www.udacity.com/). The aim was to create your own PyPi-Package and upload them to [pypi.org](https://pypi.org/). Due to my background, I decided to create a package on the topic of mathematics.
 
-You can install the package with following code:
-'pip install thjo-pi-estimator'
+You can install the package with following code:<\br>
+`pip install thjo-pi-estimator`
 
 You can find more informations about how to install packages [here](https://packaging.python.org/tutorials/installing-packages/#use-pip-for-installing).
 

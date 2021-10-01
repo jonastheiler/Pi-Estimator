@@ -5,7 +5,6 @@
 1. [Motivation](#motivation)
 2. [About the Package](#package)
 3. [Files](#files)
-4. [Acknowledgements](#acknowledgements)
 
 ## Motivation <a name="motivation"></a>
 This packages provides three different approaches to approximate the number pi. Each approach contains a plot method to visualise what is happening. The package has been uploaded to [PyPI](https://pypi.org/project/thjo-pi-estimator/) and was created in Python.
@@ -68,7 +67,3 @@ The package contains two files:
 1. monte_carlo.py, class = Monte_Carlo_Estimator()
 2. riemann_sum.py, class = Riemann_Sum_Estimator()
 3. leibniz_series.py, class = Leibniz_Series_Estimator()
-
-## Acknowledgements <a name="acknowledgements"></a>
-
-I would like to thank the udacity team again for the great teaching and the super Nanodegree programme.

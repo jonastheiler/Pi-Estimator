@@ -45,9 +45,19 @@ Methods:
 1. estimate_pi(): estimation of pi by an approximation of the integral 
 with n sums.<br/>
 2. circle_plot(): creates a plot of the quarter of the unit circle and 
-shows the bars that represents the sums.<br/>
-3. circle_plot_25(): same as method 2 but with a fixed choice of n=25. 
-It shows the functionality of the model with an optimal choice of intervals.
+shows the bars that represents the sums.
+---
+
+**Leibniz_Series_Estimator:** This approach builds a finite, alternating 
+Leibniz series to approximate pi.
+
+Attributes:<br/>
+number of summands (n=100)
+
+Methods:
+1. estimate_pi(): estimation of pi by a finite, alternating Leibniz series.<br/>
+2. series_plot(): creates a barplot of the summands and indicates the 
+convergence to pi.<br/>
 ---
 
 ## Files <a name="files"></a>

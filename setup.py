@@ -5,7 +5,7 @@ with open('README.md') as f:
     
 setup(name = 'thjo_pi_estimator',
       version = '1.0.5',
-      description = 'Estimation of pi by using different approaches',
+      description = 'Estimation of pi',
       long_description=long_description,
       long_description_content_type='text/markdown',
       packages = find_packages(),

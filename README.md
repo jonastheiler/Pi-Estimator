@@ -9,7 +9,7 @@
 
 ## Motivation <a name="motivation"></a>
 
-This is another project of the [Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025) programm at [Udacity](https://www.udacity.com/). The aim was to create your own PyPi-Package and upload them to [pypi.org](https://pypi.org/). Due to my background, I decided to create a package on the topic of mathematics.
+This is another project of the [Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025) programm at [Udacity](https://www.udacity.com/). The aim was to create your own PyPi-Package and upload them to [pypi.org](https://pypi.org/project/thjo-pi-estimator/). Due to my background, I decided to create a package on the topic of mathematics.
 
 You can install the package with following code:<br/>
 `pip install thjo-pi-estimator`

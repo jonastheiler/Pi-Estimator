@@ -7,16 +7,8 @@
 3. [Files](#files)
 
 ## Motivation <a name="motivation"></a>
-This packages provides three different approaches to estimate and approximate the number pi. Each approach contains a plot method to visualise what is happening. The package has been uploaded to [PyPI](https://pypi.org/project/thjo-pi-estimator/) and was created in Python.
+This packages provides three different approaches to estimate and approximate the number pi. Each approach contains a plot method to visualise what is happening. The package has been uploaded to test.pypi.org and was created in Python. I created this package in order to sharpen my *Object-Oriented-Programming* skills.
 
-You can install the package with following code:<br/>
-`pip install thjo-pi-estimator`
-
-If you want to use for example the *"Riemann_Sum_Estimator"* you need the 
-following code:<br/>
-`from thjo_pi_estimator import Riemann_Sum_Estimator`
-
-You can find more informations about how to install packages [here](https://packaging.python.org/tutorials/installing-packages/#use-pip-for-installing).
 
 ## About the Package <a name="pachake"></a>
 

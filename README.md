@@ -7,7 +7,7 @@
 3. [Files](#files)
 
 ## Motivation <a name="motivation"></a>
-This packages provides three different approaches to approximate the number pi. Each approach contains a plot method to visualise what is happening. The package has been uploaded to [PyPI](https://pypi.org/project/thjo-pi-estimator/) and was created in Python.
+This packages provides three different approaches to estimate and approximate the number pi. Each approach contains a plot method to visualise what is happening. The package has been uploaded to [PyPI](https://pypi.org/project/thjo-pi-estimator/) and was created in Python.
 
 You can install the package with following code:<br/>
 `pip install thjo-pi-estimator`

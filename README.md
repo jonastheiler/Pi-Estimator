@@ -7,7 +7,7 @@
 3. [Files](#files)
 
 ## Motivation <a name="motivation"></a>
-This packages provides three different approaches to estimate and approximate the number pi. Each approach contains a plot method to visualise what is happening. The package has been uploaded to test.pypi.org and was created in Python. I created this package in order to sharpen my *Object-Oriented-Programming* skills.
+This packages provides three different approaches to estimate and approximate the number pi. Each approach contains a plot method to visualise what is happening. The package has been uploaded to test.pypi.org and was created in Python. I created this package in order to sharpen my **Object-Oriented-Programming** skills.
 
 
 ## About the Package <a name="pachake"></a>
